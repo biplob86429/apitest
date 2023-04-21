@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "engDate": "25","bengDate": "5","image": "file:///android_asset/book.jpg" },
+    { "id": 1, "engDate": "25","bengDate": "5","image": "./android_asset/book.jpg" },
      { "id": 2, "engDate": "24","bengDate": "4","image": "http://shdcollege.in/images/logo.png" },
     { "id": 3, "engDate": "19","bengDate": "2","image": "http://shdcollege.in/images/logo.png" }
   ],
