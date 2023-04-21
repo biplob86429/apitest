@@ -1,20 +1,14 @@
-[
-  {
-    "id": 1,
-    "engDate": "25"
-    "bengDate": "3"
-    "image": "http://shdcollege.in/images/logo.png"
-  },
-  {
-    "id": 2,
-    "engDate": "22"
-    "bengDate": "2"
-    "image": "http://shdcollege.in/images/logo.png"
-  },
-  {
-    "id": 3,
-    "engDate": "20"
-    "bengDate": "4"
-    "image": "http://shdcollege.in/images/logo.png"
+{
+  "posts": [
+    { "id": 1, "engDate": "25","bengDate": "5","image": "http://shdcollege.in/images/logo.png" },
+     { "id": 2, "engDate": "24","bengDate": "4","image": "http://shdcollege.in/images/logo.png" },
+    { "id": 3, "engDate": "19","bengDate": "2","image": "http://shdcollege.in/images/logo.png" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
